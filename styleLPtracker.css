@@ -1,0 +1,6 @@
+*::before
+*::after
+.h1text{
+    font-size: medium;
+    font-family: fantasy;
+}
