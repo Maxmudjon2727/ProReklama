@@ -1,0 +1,17 @@
+**::before
+*::after
+
+
+
+.bodybackground {
+    background-image: url(html/bad30fe6f6fce6f7582deffc67cca450.jpeg);
+    border-color: black;
+    background-size: cover;
+}
+
+.buttons {
+    height: 200;
+    width: 100;
+    border-radius: 50%;
+    color: blanchedalmond;
+}
